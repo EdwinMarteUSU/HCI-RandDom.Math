@@ -11,7 +11,7 @@ Project 2 Descrition https://docs.google.com/document/d/1z08vxbbiTuuDDEqjTcZDe1z
 6. Propose a solution.
 7. Write a proposal for your course project 
 
-#The Report:
+The Report:
 Page 1 – Interview Clients (20 points)
 Describe population interviewed (including # of people) (6 points) 
 List questions asked and discuss the answers and the variance in responses to your questions (10 points)
