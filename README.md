@@ -11,9 +11,9 @@ Project 2 Descrition https://docs.google.com/document/d/1z08vxbbiTuuDDEqjTcZDe1z
 6. Propose a solution.
 7. Write a proposal for your course project 
 
-The Report:
+## The Report:
 
-Page 1 – Interview Clients (20 points)
+### Page 1 – Interview Clients (20 points)
 - Describe population interviewed (including # of people) (6 points) 
 - List questions asked and discuss the answers and the variance in responses to your questions (10 points)
 - Identify the pressing issues users had (4 points)
@@ -31,7 +31,7 @@ Page 1 – Interview Clients (20 points)
 
 Should we Poll some of this forums to check if we can gatter enough participants willing to test/try/interview for our project?
 							
-Page 2 – Current Interface (20 points)
+### Page 2 – Current Interface (20 points)
 - Describe the current interface (5 points)
 - Describe problems with the current interface (5 points)
 - Describe existing solutions (5 points)
@@ -39,7 +39,7 @@ Page 2 – Current Interface (20 points)
 
 * https://all3dp.com/2/cnc-router-software-find-the-tool-for-you/
 
-Page 3 and 4 – Research (30 points)
+### Page 3 and 4 – Research (30 points)
 - Summary and appropriateness of each paper (3 points), Integration of findings into your project (3 points)
 - Some paper analysis and HCI principles
 
@@ -50,7 +50,7 @@ References:
 * https://www.uxmatters.com/mt/archives/2017/08/ux-for-the-industrial-environment-part-1.php
 
 
-Page 5 – Proposed Interface Design (25 points)
+### Page 5 – Proposed Interface Design (25 points)
 - Describe how the research and client interviews impact your design - 10 points
 - Describe your interface – 10 points
 - Technical description (software, hardware, languages) of your design – 5 points
@@ -62,10 +62,8 @@ Some Guidance ideas (to where we should go:
 * https://ultimatecnc.softgon.net/en/features
 * https://winder.github.io/ugs_website/#platform
 
-
-
-Page 6 - Sketch a design of your interface
+### Page 6 - Sketch a design of your interface
 - Sketch in Invision?
 
-Page 7 - Plan for remote user evaluation (n=30) given the Covid-19 restrictions - 5 points
+### Page 7 - Plan for remote user evaluation (n=30) given the Covid-19 restrictions - 5 points
 Based on the forums list are we going to be able to test our design? If so what would be the proposal to test/evaluate our interface?
