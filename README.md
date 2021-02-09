@@ -32,16 +32,16 @@ Identify the pressing issues users had (4 points)
 Should we Poll some of this forums to check if we can gatter enough participants willing to test/try/interview for our project?
 							
 Page 2 – Current Interface (20 points)
--Describe the current interface (5 points)
--Describe problems with the current interface (5 points)
--Describe existing solutions (5 points)
--Describe HCI guideline, principle, or theory you plan on applying to address the issue (5 points)
+- Describe the current interface (5 points)
+- Describe problems with the current interface (5 points)
+- Describe existing solutions (5 points)
+- Describe HCI guideline, principle, or theory you plan on applying to address the issue (5 points)
 
 * https://all3dp.com/2/cnc-router-software-find-the-tool-for-you/
 
 Page 3 and 4 – Research (30 points)
--Summary and appropriateness of each paper (3 points), Integration of findings into your project (3 points)
--Some paper analysis and HCI principles
+- Summary and appropriateness of each paper (3 points), Integration of findings into your project (3 points)
+- Some paper analysis and HCI principles
 
 References:
 * https://course.ccs.neu.edu/csg170/biblio.htm#elders
@@ -51,9 +51,9 @@ References:
 
 
 Page 5 – Proposed Interface Design (25 points)
--Describe how the research and client interviews impact your design - 10 points
--Describe your interface – 10 points
--Technical description (software, hardware, languages) of your design – 5 points
+- Describe how the research and client interviews impact your design - 10 points
+- Describe your interface – 10 points
+- Technical description (software, hardware, languages) of your design – 5 points
 
 * Interface in Invision
 
@@ -65,7 +65,7 @@ Some Guidance ideas (to where we should go:
 
 
 Page 6 - Sketch a design of your interface
-Sketch in Invision?
+- Sketch in Invision?
 
 Page 7 - Plan for remote user evaluation (n=30) given the Covid-19 restrictions - 5 points
 Based on the forums list are we going to be able to test our design? If so what would be the proposal to test/evaluate our interface?
