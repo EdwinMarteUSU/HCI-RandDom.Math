@@ -32,35 +32,35 @@ Identify the pressing issues users had (4 points)
 Should we Poll some of this forums to check if we can gatter enough participants willing to test/try/interview for our project?
 							
 Page 2 – Current Interface (20 points)
-Describe the current interface (5 points)
-Describe problems with the current interface (5 points)
-Describe existing solutions (5 points)
-Describe HCI guideline, principle, or theory you plan on applying to address the issue (5 points)
+-Describe the current interface (5 points)
+-Describe problems with the current interface (5 points)
+-Describe existing solutions (5 points)
+-Describe HCI guideline, principle, or theory you plan on applying to address the issue (5 points)
 
-https://all3dp.com/2/cnc-router-software-find-the-tool-for-you/
+* https://all3dp.com/2/cnc-router-software-find-the-tool-for-you/
 
 Page 3 and 4 – Research (30 points)
-Summary and appropriateness of each paper (3 points), Integration of findings into your project (3 points)
-Some paper analysis and HCI principles
+-Summary and appropriateness of each paper (3 points), Integration of findings into your project (3 points)
+-Some paper analysis and HCI principles
 
 References:
-https://course.ccs.neu.edu/csg170/biblio.htm#elders
-https://ieeexplore.ieee.org/abstract/document/7229753?casa_token=AbnRYLsk560AAAAA:QEwbFL9owhCtVZrVuu3ezzDWfH8aMTw4Fe46_6FF8GUL1mVwb9HLegUusl-nyVKm0bfp9gMKxn8
-https://pdfs.semanticscholar.org/0e87/d36f67d6f330d02f2ed80515a4335c7791ee.pdf
-https://www.uxmatters.com/mt/archives/2017/08/ux-for-the-industrial-environment-part-1.php
+* https://course.ccs.neu.edu/csg170/biblio.htm#elders
+* https://ieeexplore.ieee.org/abstract/document/7229753?casa_token=AbnRYLsk560AAAAA:QEwbFL9owhCtVZrVuu3ezzDWfH8aMTw4Fe46_6FF8GUL1mVwb9HLegUusl-nyVKm0bfp9gMKxn8
+* https://pdfs.semanticscholar.org/0e87/d36f67d6f330d02f2ed80515a4335c7791ee.pdf
+* https://www.uxmatters.com/mt/archives/2017/08/ux-for-the-industrial-environment-part-1.php
 
 
 Page 5 – Proposed Interface Design (25 points)
-Describe how the research and client interviews impact your design - 10 points
-Describe your interface – 10 points
-Technical description (software, hardware, languages) of your design – 5 points
+-Describe how the research and client interviews impact your design - 10 points
+-Describe your interface – 10 points
+-Technical description (software, hardware, languages) of your design – 5 points
 
-Interface in Invision
+* Interface in Invision
 
 Some Guidance ideas (to where we should go:
-http://chilipeppr.com/grbl  (https://github.com/chilipeppr/serial-port-json-server)
-https://ultimatecnc.softgon.net/en/features
-https://winder.github.io/ugs_website/#platform
+* http://chilipeppr.com/grbl  (https://github.com/chilipeppr/serial-port-json-server)
+* https://ultimatecnc.softgon.net/en/features
+* https://winder.github.io/ugs_website/#platform
 
 
 
