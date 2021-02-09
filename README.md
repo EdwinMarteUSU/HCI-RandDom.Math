@@ -14,9 +14,9 @@ Project 2 Descrition https://docs.google.com/document/d/1z08vxbbiTuuDDEqjTcZDe1z
 The Report:
 
 Page 1 – Interview Clients (20 points)
-Describe population interviewed (including # of people) (6 points) 
-List questions asked and discuss the answers and the variance in responses to your questions (10 points)
-Identify the pressing issues users had (4 points)
+- Describe population interviewed (including # of people) (6 points) 
+- List questions asked and discuss the answers and the variance in responses to your questions (10 points)
+- Identify the pressing issues users had (4 points)
 
 * https://www.lumberjocks.com/forums/19  CNC Woodworking Forum
 * https://cnc-professional-forum.com/
