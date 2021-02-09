@@ -18,16 +18,16 @@ Describe population interviewed (including # of people) (6 points)
 List questions asked and discuss the answers and the variance in responses to your questions (10 points)
 Identify the pressing issues users had (4 points)
 
-https://www.lumberjocks.com/forums/19  CNC Woodworking Forum
-https://cnc-professional-forum.com/
-https://www.camheads.org/  CAMheads CNC Router Forum (3647 Online user max)
-http://www.mycncuk.com/ (7737 members)
-https://centroidcncforum.com/ (4795 Members)
-https://www.candcnc.net/supportforum/index.php (5548 Members)
-https://forum.shapeoko.com/ (11403 Members)
-https://community.carbide3d.com/c/shapeoko
-https://discuss.inventables.com/
-https://www.cnczone.com/forums/ (536,471 Members) <--- Half Million
+* https://www.lumberjocks.com/forums/19  CNC Woodworking Forum
+* https://cnc-professional-forum.com/
+* https://www.camheads.org/  CAMheads CNC Router Forum (3647 Online user max)
+* http://www.mycncuk.com/ (7737 members)
+* https://centroidcncforum.com/ (4795 Members)
+* https://www.candcnc.net/supportforum/index.php (5548 Members)
+* https://forum.shapeoko.com/ (11403 Members)
+* https://community.carbide3d.com/c/shapeoko
+* https://discuss.inventables.com/
+* https://www.cnczone.com/forums/ (536,471 Members) <--- Half Million
 
 Should we Poll some of this forums to check if we can gatter enough participants willing to test/try/interview for our project?
 							
